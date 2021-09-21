@@ -1,7 +1,8 @@
+<h3>week 1 task</h3>
 <ol>
-<li>created a github account and repository</li>
+<li>created a <strong>github account</strong> and repository</li>
 <li>Learnt Markdown</li>
-<li>Learning to use Jupyter notebooks</li>
+<li>Learning to use <em>Jupyter notebooks</em></li>
 <li>Made a report on Logistic regression</li>
 <li>hackerrank
 <ol>
