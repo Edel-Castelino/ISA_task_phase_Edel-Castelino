@@ -1,3 +1,7 @@
+'''
+masking using opencv
+color: green
+'''
 import cv2
 import numpy as np
 import time
